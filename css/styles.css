@@ -47,6 +47,15 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+.about-image img {
+    width: 120px;      /* make it smaller */
+    height: 120px;     /* same size to keep it a circle */
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #333;
+}
+
+
 /* Projects Grid */
 .projects {
     display: grid;
@@ -87,4 +96,5 @@ button {
     background: #222;
     color: white;
     border: none;
+
 }
