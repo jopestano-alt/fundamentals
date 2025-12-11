@@ -7,7 +7,7 @@
 }
 
 body {
-    background: #f9f9f9;
+    background:lavender #f9f9f9;
     color:violet #333;
     line-height: 1.6;
 }
@@ -26,13 +26,13 @@ nav ul {
 }
 
 nav a {
-    color: white;
+    color: violet;
     text-decoration: none;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #00bcd4;
+    color:violet #00bcd4;
 }
 
 /* Hero / About section */
@@ -65,7 +65,7 @@ nav a:hover {
 }
 
 .project-card {
-    background: white;
+    background: lavender;
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -93,10 +93,11 @@ form input, form textarea {
 }
 
 button {
-    background: #222;
-    color: white;
+    background:lavender #222;
+    color: violet;
     border: none;
 
 }
+
 
 
