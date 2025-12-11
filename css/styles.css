@@ -8,13 +8,13 @@
 
 body {
     background: #f9f9f9;
-    color: #333;
+    color:violet #333;
     line-height: 1.6;
 }
 
 /* Navigation */
 header {
-    background: #222;
+    background:lavender #222;
     padding: 20px;
 }
 
@@ -98,4 +98,5 @@ button {
     border: none;
 
 }
+
 
